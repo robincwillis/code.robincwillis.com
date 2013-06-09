@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<code>
+	
+	<!-- Grasshopper -->
+	
+	<project name="bow_facade" id="01" display="on" thumb="projects/Grasshopper/bow_facade/thumb/thumb.jpg">
+		<title>Bow Facade</title>
+		<date>Sep 2010</date>
+		<description>
+		This definition was developed with an interest in the ability of materials to bend or flex and was used for generating a facade screen system. By takinga sheet of stiff but flexible material and intrudicing a variety of slits into that sheet as well as applying a force one can creating a number of unique bowing forms. This definition models those forms and corrosonding cutsheets for fabrication. 
+		</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Digital Fabrication</tag>
+		</tags>
+		
+		<source src="projects/Grasshopper/bow_facade/source/bow_facade.ghx" >bow_facade.ghx</source>
+		
+		
+		<videos width="416" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Grasshopper/bow_facade/video/video_h264_416x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Grasshopper/bow_facade/video/video_ogg_416x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Grasshopper/bow_facade/video/video_webm_416x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Grasshopper/bow_facade/gallery/image01.jpg</gal>
+			<gal index="1" width="500" height="350">projects/Grasshopper/bow_facade/gallery/image02.jpg</gal>
+			<gal index="2" width="500" height="350">projects/Grasshopper/bow_facade/gallery/image03.jpg</gal>
+			<gal index="3" width="500" height="350">projects/Grasshopper/bow_facade/gallery/image04.jpg</gal>
+			<gal index="4" width="500" height="350">projects/Grasshopper/bow_facade/gallery/image05.jpg</gal>
+		</gallery>
+		
+		
+		
+	</project>
+	
+	<project name="perf_metal" id="02" display="on" thumb="projects/Grasshopper/perf_metal/thumb/thumb.jpg">
+		<title>Perf Metal</title>
+		<date>Dec 2009</date>
+		<description>
+		Developed for a digital fabrication class this defition is born from an interests in new techniques of transforming flat materials into 3d forms. By intrudicing a variety of perferations into a sheet of metal and then bending it one can create a number of unique forms based on the size and location of the perforations which effect the metals strength and direction it will bend.
+		</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Digital Fabrication</tag>
+		</tags>
+		
+		<source src="projects/Grasshopper/perf_metal/source/perf_metal.ghx">perf_metal.ghx</source>
+
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Grasshopper/perf_metal/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Grasshopper/perf_metal/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Grasshopper/perf_metal/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image01.jpg</gal>
+			<gal index="1" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image02.jpg</gal>
+			<gal index="2" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image03.jpg</gal>
+			<gal index="3" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image04.jpg</gal>
+			<gal index="4" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image05.jpg</gal>
+			<gal index="5" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image06.jpg</gal>
+			<gal index="6" width="500" height="350">projects/Grasshopper/perf_metal/gallery/image07.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="Vault" id="03" display="on" thumb="projects/Grasshopper/vault/thumb/thumb.jpg">
+		<title>Vault 201</title>
+		<date>Jan 2009</date>
+		<description>Installation for Cooper Hewitt Triennial: “Why Design Now?” to Create a thin shell Vault based on the work of Rafael Guastavino. The challenges of this project were to use digital methods to arrive at forms never before possible as well as design a fabrication method that can allow a structure, which depends on its formal precision in order to function to be constructed by unskilled labor. Using catenary equations from structural design, A parametric model was constructed that allows one to manipulate force lines throughout a surface which is then rationalized into the specified bricks while Formwork and cut files to control a CNC router are generated, allowing one to seamlessly move from design to fabrication while working with shifting constraints such as brick dimensions or count. Bricks were manufactured by Green Leaf bricks made out of 100 percent post-consumer and post-industrial recycled material…including 30 percent processed sewage waste.</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Catenary</tag>
+		</tags>
+		
+	
+				
+		<videos width="624" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Grasshopper/vault/video/video_h264_624x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Grasshopper/vault/video/video_ogg_624x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Grasshopper/vault/video/video_webm_624x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Grasshopper/vault/gallery/image01.jpg</gal>
+			<gal index="1" width="500" height="350">projects/Grasshopper/vault/gallery/image02.jpg</gal>
+			<gal index="2" width="500" height="350">projects/Grasshopper/vault/gallery/image03.jpg</gal>
+			<gal index="3" width="500" height="350">projects/Grasshopper/vault/gallery/image04.jpg</gal>
+			<gal index="4" width="500" height="350">projects/Grasshopper/vault/gallery/image05.jpg</gal>
+			<gal index="4" width="500" height="350">projects/Grasshopper/vault/gallery/image06.jpg</gal>
+			
+		</gallery>
+		
+	</project>
+	
+	<project name="Gateway" id="04" display="off" thumb="projects/Grasshopper/gateway/thumb/thumb.jpg">
+		<title>Gateway</title>
+		<date>Sep 2009</date>
+		<description>asdfasdf</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Parametric</tag>
+		</tags>
+		
+		<source>asdfasf</source>
+		<application>asdf</application>
+		
+		<gallery>
+			<gal index="0" width="100" height="100"></gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="robo_excel" id="05" display="on" thumb="projects/Grasshopper/excel/thumb/thumb.jpg">
+		<title>Robo Excel Values</title>
+		<date>Sep 2010</date>
+		<description>This is a modification of another Excel Grasshopper definition however it provides added support for multiple worksheets through Microsoft's .net framework</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Data</tag>
+		</tags>
+		
+		<source src="projects/Grasshopper/excel/source/Robo_Excel_Values.ghx">Robo_Excel_Values.ghx</source>
+
+		
+		<videos width="560" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Grasshopper/excel/video/video_h264_560x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Grasshopper/excel/video/video_ogg_560x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Grasshopper/excel/video/video_webm_560x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Grasshopper/excel/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Grasshopper/excel/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Grasshopper/excel/gallery/image03.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="solar_canopy" id="06" display="off" thumb="projects/Grasshopper/bow_facade/thumb/thumb.jpg">
+		<title>Solar Canopy</title>
+		<date>Mar 2010</date>
+		<description>asdfasdf</description>
+		
+		
+		<languages>
+			<language>Grasshopper</language>
+		</languages>
+		<tags>
+			<tag>Parametric</tag>
+			<tag>Solar</tag>
+		</tags>
+		
+		<source>asdf</source>
+		<application>asdf</application>
+		
+		<gallery>
+			<gal index="0" width="100" height="100">asdf</gal>
+		</gallery>
+		
+	</project>
+	
+	<!-- Rhinoscript -->
+	
+	<project name="robo_cutsheet" id="07" display="on" thumb="projects/Rhinoscript/robo_cutsheet/thumb/thumb.jpg">
+		<title>Robo Cutsheet</title>
+		<date>Sep 2008</date>
+		<description>While many cutsheet generating rhinoscripts exist none seem to tackle the problem of thickness in a model. This cutsheet script goes the extra mile allowing one to select a series of poly surfaces then generating a cutsheet from them with matching lables from model polysurfaces to cutsheet curves</description>
+		
+		
+		<languages>
+			<language>Rhinoscript</language>
+		</languages>
+		<tags>
+			<tag>Digital Fabrication</tag>
+		</tags>
+		
+		<source src="projects/Rhinoscripts/robo_cutsheet/source/robo_cutsheet.rvb">robo_cutsheet.rvb</source>
+		
+		<videos width="768" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Rhinoscript/robo_cutsheet/video/video_h264_768x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Rhinoscript/robo_cutsheet/video/video_ogg_768x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Rhinoscript/robo_cutsheet/video/video_webm_768x352.webm</video>
+		</videos>
+		
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/robo_cutsheet/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="260">projects/Rhinoscript/robo_cutsheet/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="260">projects/Rhinoscript/robo_cutsheet/gallery/image03.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="recursive_cracking" id="08" display="on" thumb="projects/Rhinoscript/recursive_cracking/thumb/thumb.jpg">
+		<title>Recursive Cracking</title>
+		<date>Dec 2007</date>
+		<description>Recursive Cracking triangulates a surface through a feedback loop which recursively divides itself according to the mean curvature of the surface at its position. Shallow areas of curvature on the surface are divided less and tighter areas of curvature are divided more creating a more accurate articulation of the surface being processed. this experiment serves as a tool for discretizing a curved surface into planar elements with dynamic geometric relationships.</description>
+		
+		
+		<languages>
+			<language>Rhinoscript</language>
+		</languages>
+		<tags>
+			<tag>Recursion</tag>
+		</tags>
+		
+		<source src="projects/Rhinoscripts/recursive_cracking/source/recursive_cracking.rvb">recursive_cracking.rvb</source>
+		
+		<videos width="784" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Rhinoscript/recursive_cracking/video/video_h264_784x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Rhinoscript/recursive_cracking/video/video_ogg_784x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Rhinoscript/recursive_cracking/video/video_webm_784x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/recursive_cracking/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/recursive_cracking/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/recursive_cracking/gallery/image03.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="rotate_render" id="09" display="on" thumb="projects/Rhinoscript/rotate_render/thumb/thumb.jpg">
+		<title>Rotate and Render</title>
+		<date>Oct 2007</date>
+		<description>This simple script rotates the viewport at a desired interval and renders it, it is very useful when inserted into other rhinoscripts to produce an animation of the script being executed</description>
+		
+		
+		<languages>
+			<language>Rhinoscript</language>
+		</languages>
+		<tags>
+			<tag>Render</tag>
+		</tags>
+		
+		<source src="projects/Rhinoscript/rotate_render/source/rotate_render.rvb">rotate_render.rvb</source>
+		
+		<videos width="800" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Rhinoscript/rotate_render/video/video_h264_800x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Rhinoscript/rotate_render/video/video_ogg_800x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Rhinoscript/rotate_render/video/video_webm_800x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/rotate_render/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/rotate_render/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/rotate_render/gallery/image03.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/rotate_render/gallery/image04.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/rotate_render/gallery/image05.jpg</gal>
+		</gallery>
+		
+	</project>
+
+	<project name="score_to_perf" id="10" display="on" thumb="projects/Rhinoscript/score_to_perf/thumb/thumb.jpg">
+		<title>Score to Perf</title>
+		<date>Oct 2007</date>
+		<description>This is simple script exists to tackle the common problem in fabrication when one wants to bend or fold a material but creating a score line is not possible, it thus transforms selected lines in a model representing scores into a chain of holes whose diameter and spacing can be adjusted to create desired perforations for folding.</description>
+		
+		
+		<languages>
+			<language>Rhinoscript</language>
+		</languages>
+		<tags>
+			<tag>Fabrication</tag>
+		</tags>
+		
+		<source src="projects/Rhinoscript/score_to_perf/source/score_to_perf.rvb">score_to_perf.rvb</source>
+		
+		<videos width="624" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Rhinoscript/score_to_perf/video/video_h264_624x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Rhinoscript/score_to_perf/video/video_ogg_624x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Rhinoscript/score_to_perf/video/video_webm_624x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/score_to_perf/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/score_to_perf/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/score_to_perf/gallery/image03.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/score_to_perf/gallery/image04.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/score_to_perf/gallery/image05.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="surface_weave" id="11" display="off" thumb="projects/Rhinoscript/surface_weave/thumb/thumb.jpg">
+		<title>Surface Weave</title>
+		<date>Oct 2007</date>
+		<description>asdf</description>
+		
+		
+		<languages>
+			<language>Rhinoscript</language>
+		</languages>
+		<tags>
+			<tag>Surface</tag>
+		</tags>
+		
+		<source>asdfasf</source>
+		<application>asdfasdf</application>
+		
+		<video width="0" height="0"></video>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/surface_weave/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Rhinoscript/surface_weave/gallery/image02.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<!-- Rhinopython -->
+	
+	
+	<project name="Growing Cities" id="12" display="off" thumb="projects/Python/growing_cities/thumb/thumb.jpg">
+		<title>Growing Cities</title>
+		<date>Jan 2011</date>
+		<description>asdf</description>
+		
+		
+		<languages>
+			<language>Rhinopython</language>
+		</languages>
+		<tags>
+			<tag>Network</tag>
+			<tag>Urbanism</tag>
+		</tags>
+		
+		<source>asdf</source>
+		<application>asdf</application>
+		
+		<video width="0" height="0"></video>
+		
+		<gallery>
+			<gal index="0" width="100" height="100">asdf</gal>
+		</gallery>
+		
+	</project>
+	
+	<!-- JAVA -->
+	
+	<project name="fw_nets" id="13" display="on" thumb="projects/Java/fw_nets/thumb/thumb.jpg">
+		<title>fw_Nets</title>
+		<date>Dec 2010</date>
+		<description>For decades designers have experimented with simulated structural behavior and its geometric implications through “Form Finding”. Techniques in form finding are best known through the hanging chain models of Antonio Gaudi as well as the physical models of Frei Otto who experimented with a number of physical modeling techniques to discover highly accurate structural forms. Recently, methods such as dynamic relaxation and force density have been employed for analyzing and optimizing structural forms. While these methods have led to a number of tools for refining structural forms, very few design tools exist for exploring and creating new structural forms. As a response to this Axel Killian and John Ochsenforf developed a three dimensional design and analysis tool to find funicular structural forms in real time through the use of particle-spring systems. This can be accomplished directly through computational methods providing powerful fast ways to generate and manipulate digital cable net models.</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Dynamic Relaxation</tag>
+			<tag>Form Finding</tag>
+		</tags>
+		
+		<source src="https://code.google.com/p/fw-nets/source/browse/">Google Code</source>
+		
+		<applications>
+			<application os="macosx">projects/Java/fw_nets/application/fw_nets.application.macosx.zip</application>
+			<application os="windows">projects/Java/fw_nets/application/fw_nets.application.windows.zip</application>
+			<application os="linux">projects/Java/fw_nets/application/fw_nets.application.linux.zip</application>
+		</applications>
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/fw_nets/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/fw_nets/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/fw_nets/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="478" height="350">projects/Java/fw_nets/gallery/image01.png</gal>
+			<gal index="0" width="478" height="350">projects/Java/fw_nets/gallery/image02.png</gal>
+			<gal index="0" width="478" height="350">projects/Java/fw_nets/gallery/image03.png</gal>
+			<gal index="0" width="478" height="350">projects/Java/fw_nets/gallery/image04.png</gal>
+			<gal index="0" width="478" height="350">projects/Java/fw_nets/gallery/image05.png</gal>
+			
+		</gallery>
+	</project>
+	
+	<project name="fw_adjacency" id="14" display="on" thumb="projects/Java/fw_adjacency/thumb/thumb.jpg">
+		<title>fw_Adjacency</title>
+		<date>Sep 2010</date>
+		<description>This application loads a set of spatial descriptions as nodes into an interface which allows a user to graphically compose an adjacency graph for the set of nodes which is then used in determining configurations of each of those spaces.</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Adjacency Graph</tag>
+		</tags>
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/fw_adjacency/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/fw_adjacency/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/fw_adjacency/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="465" height="300">projects/Java/fw_adjacency/gallery/image01.png</gal>
+			<gal index="1" width="465" height="300">projects/Java/fw_adjacency/gallery/image02.png</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="fw_typology" id="15" display="on" thumb="projects/Java/fw_typology/thumb/thumb.jpg">
+		<title>fw_Typology</title>
+		<date>Oct 2010</date>
+		<description>In schematic design the architect is charged with developing and evaluating a number of configurations bringing them into the site at a diagrammatic level. In order to accomplish this architects develop rules and constraints for ordering spaces and bringing them into a coherent whole. Furthermore the architect balances a set of values or goals that they have in the project and tries to achieve all of them. This phase is experiment, different systems are changed, rules are tweaked and compromises between values are established until they reach something acceptable. This tool automates the process of schematic design based by organizing a set of spaces onto a given site according to defined objectives through the use of computational methods, namely simulated annealing. One can then tip the scales in order to bias one objective over another based on personal values, while iteratively shifting constraints and position. This enhances the schematic design process, by both compressing its time span and allowing it to be dynam</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Simulated Annealing</tag>
+			
+		</tags>
+		
+		<source src="https://code.google.com/p/fw-typology/source/browse/">Google Code</source>
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/fw_typology/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/fw_typology/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/fw_typology/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<applications>
+			<application os="macosx">projects/Java/fw_typology/application/fw_typology.application.macosx.zip</application>
+			<application os="windows">projects/Java/fw_typology/application/fw_typology.application.windows.zip</application>
+			<application os="linux">projects/Java/fw_typology/application/fw_typology.application.linux.zip</application>
+		</applications>
+		
+		<gallery>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image01.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image02.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image03.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image04.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image05.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image06.png</gal>
+			<gal index="0" width="465" height="350">projects/Java/fw_typology/gallery/image07.png</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="trefoil_paramorph" id="16" display="on" thumb="projects/Java/TrefoilParamorph/thumb/thumb.jpg">
+		<title>Trefoil Paramorph</title>
+		<date>Nov 2010</date>
+		<description>How can digital tools and process rethinking the way we draw and the way we arrive at form? As a response to this question and the agenda of using parametric modeling to challenge architecture formally Trefoil Paramorph examines the trefoil knot, a topological closed surface whose unique geometric properties have fascinated architects in past, popularized by UN Studio's Mercedes Benz Museum. In an exercise to create a proposal for movie studio complex for Plymouth studios, which incorporated a film school and museum ,the Trefoil Paramorph was used for its circulatory benefits for social interaction, that would interact through the weaving of circulation paths to unify three disinterested programs , and their of inhabitants.</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Parametric</tag>
+			<tag>Trefoil</tag>
+			<tag>Topology</tag>
+		</tags>
+		
+		<source src="https://code.google.com/p/trefoilparamorph/source/browse/">Google Code</source>
+		
+		<applications>
+			<application os="macosx">projects/Java/TrefoilParamorph/application/parSurface.application.macosx.zip</application>
+			<application os="windows">projects/Java/TrefoilParamorph/application/parSurface.application.windows.zip</application>
+			<application os="linux">projects/Java/TrefoilParamorph/application/parSurface.application.linux.zip</application>
+		</applications>
+		
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/TrefoilParamorph/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/TrefoilParamorph/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/TrefoilParamorph/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="454" height="350">projects/Java/TrefoilParamorph/gallery/image01.png</gal>
+			<gal index="0" width="454" height="350">projects/Java/TrefoilParamorph/gallery/image02.png</gal>
+			<gal index="0" width="454" height="350">projects/Java/TrefoilParamorph/gallery/image03.png</gal>
+			<gal index="0" width="454" height="350">projects/Java/TrefoilParamorph/gallery/image04.png</gal>
+			<gal index="0" width="454" height="350">projects/Java/TrefoilParamorph/gallery/image05.png</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="spectre" id="17" display="on" thumb="projects/Java/Spectre/thumb/thumb.jpg">
+		<title>Spectre</title>
+		<date>Aug 2010</date>
+		<description>Rather than contribute to the rapidly growing economy of moving images saturating peoples perception, and in effect rendering audiences’ relationship to the medium less meaningful this project seeks to decomposes and degrade existing images. Footage is harvested from various internet sources, notably youtube.com, archive.org and ubu.com and translated into basic numeric information – arrays of pixels with color values defined as 32 bit integers, or 4 bytes. The range of integer values that can be stored in 32 bits is 0 through 4,294,967,295 which in digital images, can refer to 24-bit true-color(red, green, blue) images with an 8-bit alpha(opacity) channel. Through the development of a java application, these values are manipulated and recorded in real time through operations such as shifting pixel locations, flooding color channels, changing opacity and adding noise both removing images from there context and abstracting them into ghostly appearing figures. Recordings are then compiled and composed into a video, as representation of some haunting experience, a video apparition.</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Video</tag>
+		</tags>
+		
+		<source src="https://code.google.com/p/spectre-synth/source/browse/">Google Code</source>
+		
+		<applications>
+			<application os="macosx">projects/Java/Spectre/application/spectre.application.macosx.zip</application>
+			<application os="windows">projects/Java/Spectre/application/spectre.application.windows.zip</application>
+			<application os="linux">projects/Java/Spectre/application/spectre.application.linux.zip</application>
+		</applications>
+		
+		<videos width="624" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/Spectre/video/video_h264_624x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/Spectre/video/video_ogg_624x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/Spectre/video/video_webm_624x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="215" height="350">projects/Java/Spectre/gallery/image01.png</gal>
+			<gal index="0" width="215" height="350">projects/Java/Spectre/gallery/image02.png</gal>
+			<gal index="0" width="215" height="350">projects/Java/Spectre/gallery/image03.png</gal>
+			<gal index="0" width="215" height="350">projects/Java/Spectre/gallery/image04.png</gal>
+			
+		</gallery>
+		
+	</project>
+	
+	<project name="space viewer" id="18" display="on" thumb="projects/Java/SpaceViewer/thumb/thumb.jpg">
+		<title>Space Viewer</title>
+		<date>Jan 2009</date>
+		<description>This project seeks to create an intuitive and novel way for interacting and navigating three dimensional spaces through a two dimensional surface and the gestures of ones own body. Simple gestures are mapped to the manipulation of a virtual camera and space. Through ones movement one can simultaneously pan, zoom and orbit around models. This is accomplished by tracking ones movements via infrared sensors attached to ones fingers which are tracked with a Wimote. Through this act it is hoped that a greater relationship between the user and some three dimensional object, graph or space is established both bridging the virtual and the physical and bringing clarity to complex and confusing three dimensional structures and systems.</description>
+		
+		
+		<languages>
+			<language>Java</language>
+		</languages>
+		<tags>
+			<tag>Infrared</tag>
+		</tags>
+		
+		<source src="https://code.google.com/p/space-viewer/source/browse/">Google Code</source>
+		
+		<applications>
+			<application os="macosx">projects/Java/SpaceViewer/application/spaceviewer.application.macosx.zip</application>
+			<application os="windows">projects/Java/SpaceViewer/application/spaceviewer.application.windows.zip</application>
+			<application os="linux">projects/Java/SpaceViewer/application/spaceviewer.application.linux.zip</application>
+		</applications>
+		
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Java/SpaceViewer/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Java/SpaceViewer/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Java/SpaceViewer/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="447" height="350">projects/Java/SpaceViewer/gallery/image01.png</gal>
+			<gal index="0" width="447" height="350">projects/Java/SpaceViewer/gallery/image02.png</gal>
+			<gal index="0" width="447" height="350">projects/Java/SpaceViewer/gallery/image03.png</gal>
+			<gal index="0" width="447" height="350">projects/Java/SpaceViewer/gallery/image04.png</gal>
+			<gal index="0" width="500" height="350">projects/Java/SpaceViewer/gallery/image05.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Java/SpaceViewer/gallery/image06.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Java/SpaceViewer/gallery/image07.jpg</gal>
+			
+		</gallery>
+		
+	</project>
+			
+	<!-- PROCESSING -->
+
+	<project name="waveformgenerator" id="19" display="on" thumb="projects/Processing/WaveformGenerator/thumb/thumb.jpg">
+		<title>Waveform Generator</title>
+		<date>Dec 2008</date>
+		<description>This simple application was an opportunity to play with the really powerful Minim Library for Processing. Through this interface combine, modify and remove a number of sound waves to create a unique sound.</description>
+		
+		
+		<languages>
+			<language>Processing</language>
+		</languages>
+		<tags>
+			<tag>Audio</tag>
+		</tags>
+		
+		<source src="projects/Processing/WaveformGenerator/applet/">Applet</source>
+		
+		<applications>
+			<application os="macosx">projects/Processing/WaveformGenerator/application/waveformgenerator.application.macosx.zip</application>
+			<application os="windows">projects/Processing/WaveformGenerator/application/waveformgenerator.application.windows.zip</application>
+			<application os="linux">projects/Processing/WaveformGenerator/application/waveformgenerator.application.linux.zip</application>
+		</applications>
+		
+		<videos width="400" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Processing/WaveformGenerator/video/video_h264_400x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Processing/WaveformGenerator/video/video_ogg_400x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Processing/WaveformGenerator/video/video_webm_400x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="394" height="350">projects/Processing/WaveformGenerator/gallery/image01.png</gal>
+			<gal index="0" width="394" height="350">projects/Processing/WaveformGenerator/gallery/image02.png</gal>
+			<gal index="0" width="394" height="350">projects/Processing/WaveformGenerator/gallery/image03.png</gal>
+			<gal index="0" width="394" height="350">projects/Processing/WaveformGenerator/gallery/image04.png</gal>
+			<gal index="0" width="394" height="350">projects/Processing/WaveformGenerator/gallery/image05.png</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="soniclandscape" id="20" display="on" thumb="projects/Processing/SonicLandscape/thumb/thumb.jpg">
+		<title>Sonic Landscape</title>
+		<date>Nov 2007</date>
+		<description>Inspired by Peter Saville's iconic album cover design, sonic landscape interprets the spectrum of a given piece of audio and builds a landscape of it across the screen, certain parameters can be controlled by the user to control the characteristic of the image.</description>
+		
+		
+		<languages>
+			<language>Processing</language>
+		</languages>
+		<tags>
+			<tag>Audio</tag>
+		</tags>
+		
+		<source src="projects/Processing/SonicLandscape/applet/">Applet</source>
+		
+		<applications>
+			<application os="macosx">projects/Processing/SonicLandscape/application/soniclandscape.application.macosx.zip</application>
+			<application os="windows">projects/Processing/SonicLandscape/application/soniclandscape.application.windows.zip</application>
+			<application os="linux">projects/Processing/SonicLandscape/application/soniclandscape.application.linux.zip</application>
+		</applications>
+		
+		<videos width="464" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Processing/SonicLandscape/video/video_h264_464x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Processing/SonicLandscape/video/video_ogg_464x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Processing/SonicLandscape/video/video_webm_464x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="500" height="350">projects/Processing/SonicLandscape/gallery/image01.jpg</gal>
+			<gal index="1" width="500" height="350">projects/Processing/SonicLandscape/gallery/image02.jpg</gal>
+			<gal index="2" width="500" height="350">projects/Processing/SonicLandscape/gallery/image03.jpg</gal>
+			<gal index="3" width="500" height="350">projects/Processing/SonicLandscape/gallery/image04.jpg</gal>
+			<gal index="4" width="500" height="350">projects/Processing/SonicLandscape/gallery/image05.jpg</gal>
+			<gal index="5" width="500" height="350">projects/Processing/SonicLandscape/gallery/image06.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="timeline" id="21" display="on" thumb="projects/Processing/Timeline/thumb/thumb.jpg">
+		<title>Timeline</title>
+		<date>Jan 2005</date>
+		<description>Timeline is a tool for creating new and interesting animations through simplicity. By saving points of the line along time it can reconstruct the line at the same speed it was drawn at. There are no limits to the amount of lines one can draw and each one is independently customizable. This brings new ideas of what animation and drawing can be. The physical controller created for this program was designed to utilize every limb of the body in harmony. Because time is an essential factor in the intereaction of this application the controller is operated more like an instrument rather than an interface.</description>
+		
+		
+		<languages>
+			<language>Processing</language>
+		</languages>
+		<tags>
+			<tag>Drawing</tag>
+		</tags>
+		
+		<source src="projects/Processing/Timeline/applet/">Applet</source>
+		
+		<applications>
+			<application os="macosx">projects/Processing/Timeline/application/timeline.application.macosx.zip</application>
+			<application os="windows">projects/Processing/Timeline/application/timeline.application.windows.zip</application>
+			<application os="linux">projects/Processing/Timeline/application/timeline.application.linux.zip</application>
+		</applications>
+		
+		<videos width="480" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Processing/Timeline/video/video_h264_480x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Processing/Timeline/video/video_ogg_480x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Processing/Timeline/video/video_webm_480x352.webm</video>
+		</videos>
+		
+		<gallery>
+			<gal index="0" width="450" height="350">projects/Processing/Timeline/gallery/image01.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Processing/Timeline/gallery/image02.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Processing/Timeline/gallery/image03.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Processing/Timeline/gallery/image04.jpg</gal>
+			<gal index="0" width="500" height="350">projects/Processing/Timeline/gallery/image05.jpg</gal>
+		</gallery>
+		
+	</project>
+	
+	<project name="cubes" id="22" display="on" thumb="projects/Processing/Cubes/thumb/thumb.jpg">
+		<title>Cubes</title>
+		<date>Jun 2005</date>
+		<description>Written for a randomly generating splash page. This code simply creates a landscape of cubes resembling stone quarry jetties I saw and loved in Spain and Greece.</description>
+		
+		
+		<languages>
+			<language>Processing</language>
+		</languages>
+		<tags>
+			<tag>Drawing</tag>
+		</tags>
+		
+		<source src="projects/Processing/Cubes/applet/">Applet</source>
+		
+		<applications>
+			<application os="macosx">projects/Processing/Cubes/application/cubes.application.macosx.zip</application>
+			<application os="windows">projects/Processing/Cubes/application/cubes.application.windows.zip</application>
+			<application os="linux">projects/Processing/Cubes/application/cubes.application.linux.zip</application>
+		</applications>
+		
+		<videos width="800" height="352">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Processing/Cubes/video/video_h264_800x352.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Processing/Cubes/video/video_ogg_800x352.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Processing/Cubes/video/video_webm_800x352.webm</video>
+		</videos>
+		
+		
+		<gallery>
+			<gal index="0" width="500" height="218">projects/Processing/Cubes/gallery/image01.png</gal>
+			<gal index="0" width="500" height="218">projects/Processing/Cubes/gallery/image02.png</gal>
+			<gal index="0" width="500" height="218">projects/Processing/Cubes/gallery/image03.png</gal>
+			<gal index="0" width="500" height="218">projects/Processing/Cubes/gallery/image04.png</gal>
+			<gal index="0" width="500" height="218">projects/Processing/Cubes/gallery/image05.png</gal>
+		</gallery>
+		
+	</project>
+		
+	<project name="tofutype" id="23" display="on" thumb="projects/Processing/TofuType/thumb/thumb.jpg">
+		<title>Tofu Type</title>
+		<date>Jun 2005</date>
+		<description>In the future, with increasing amounts of information to be managed and new speeds in which it must be composed, design will be dehydrated. Design will be conducted on a new massive scale of production, putting sophistication at the risk of disappearing in order to meet the level of efficiency needed. Tofu will allow a designer to start with the most basic version of the typeface and transform it to any degree to create a new level of sophistication in typography and still function efficiently.</description>
+		
+		
+		<languages>
+			<language>Processing</language>
+		</languages>
+		<tags>
+			<tag>Type</tag>
+		</tags>
+		
+		<source src="projects/Processing/TofuType/applet/">Applet</source>
+		
+		<applications>
+			<application os="macosx">projects/Processing/TofuType/application/tofutype.application.macosx.zip</application>
+			<application os="windows">projects/Processing/TofuType/application/tofutype.application.windows.zip</application>
+			<application os="linux">projects/Processing/TofuType/application/tofutype.application.linux.zip</application>
+		</applications>
+		
+		<videos width="800" height="272">
+			<video format="mp4" codecs="avc1.42E01E, mp4a.40.2">projects/Processing/TofuType/video/video_h264_800x272.mp4</video>
+			<video format="ogv" codecs="theora, vorbis">projects/Processing/TofuType/video/video_ogg_800x272.ogv</video>
+			<video format="webm" codecs="vp8, vorbis">projects/Processing/TofuType/video/video_webm_800x272.webm</video>
+
+		</videos>
+		<gallery>
+			<gal index="0" width="498" height="350">projects/Processing/TofuType/gallery/image01.png</gal>
+			<gal index="0" width="498" height="350">projects/Processing/TofuType/gallery/image02.png</gal>
+			<gal index="0" width="498" height="350">projects/Processing/TofuType/gallery/image03.png</gal>
+		</gallery>
+		
+	</project>
+	
+</code>

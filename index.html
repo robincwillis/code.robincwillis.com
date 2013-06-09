@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<title>Robin Willis: Code</title>
+
+	
+		<meta name="description" content="Various Programs I have written over the years." />
+    <meta name="keywords" content="robin, willis, robin willis, Java, Processing, Rhinoscript, Grasshopper, Digital Fabrication, Rendering, Recursive, Data, Dynamic Relaxation, Audio, Drawing, Trefoil, Parametric" />
+		<meta name="author" content="Robin Willis" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/t_black_16.png" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<style type="text/css" src="lib/ui/jquery.ui.core.css"></style>
+		<style type="text/css">
+			@import url('css/code.css');
+		</style>
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<script type="text/javascript" src="lib/ui/jquery.ui.core.js"></script>
+		<script type="text/javascript" src="lib/ui/jquery.effects.core.js"></script>
+		
+		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="js/date.js"></script>
+		<script type="text/javascript" src="js/sort.js"></script>
+		<script type="text/javascript" src="js/load_project_list.js"></script>
+		<script type="text/javascript" src="js/load_project.js"></script>
+		<script type="text/javascript" src="js/tag_filter.js"></script>
+		<script type="text/javascript" src="js/char_cycle.js"></script>
+		<script type="text/javascript" src="js/jquery.slideshow.js"></script>
+    	<script type="text/javascript" src="js/video.js"></script>	
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/mwheelIntent.js"></script>
+		<script type="text/javascript" src="js/jquery.jscrollpane.js"></script>
+		<script type="text/javascript" src="js/imageScale.js"></script>
+		
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-4803873-2']);
+		  _gaq.push(['_setDomainName', '.robincwillis.com']);
+		  _gaq.push(['_trackPageview','/code']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+		
+	</head>
+	<body>
+		<header>
+		 <div style="float:right; margin-top:25px; margin-right:-55px">
+         <span>
+         <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcode.robincwillis.com&amp;send=false&amp;layout=button_count&amp;width=70&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>  </span>
+         <span >      
+         <a href="https://twitter.com/share"  class="twitter-share-button" data-url="http://code.robincwillis.com" data-count="horizontal" data-via="robincwillis">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+         </span>
+            
+         <!-- customized for a specific address -->
+         <g:plusone size="medium" href="http://code.robincwillis.com"></g:plusone>
+            
+         <!-- include the JS file -->
+         <script src="https://apis.google.com/js/plusone.js"></script>
+      </div>  
+        
+			
+				<h1 style="float:left">Robin Willis/Code</h1> 
+  				<h2 style="float:left">Various programs I have written over the past few years.</h2> 
+			
+
+			</header>
+			
+			<div style="clear:both"></div>
+			
+			<section>
+				<h3>Language</h3> 
+				<nav>
+					<p class="bigger mono">
+						<ul>
+							<li><a href="#" onclick="return false" class="nav_item mono">Processing</a></li> 
+							<li><a href="#" onclick="return false" class="nav_item mono">Rhinoscript</a></li>
+							<li><a href="#" onclick="return false" class="nav_item mono">Java</a></li>
+							<li><a href="#" onclick="return false" class="nav_item mono">Grasshopper</a></li>
+						</ul>
+					</p> 
+				</nav>
+				<h3>Projects</h3> 
+				<div id="project_list">
+					<div class="mono" id="keys">
+					<div id="head_sort">
+					SORT BY: 
+					</div>
+					<div id="head_date">
+					<a href="#" onclick="return false" class="sort_date">DATE </a>
+					</div>
+					<div id="head_title">
+					<a href="#" onclick="return false" class="sort_title">PROJECT</a> 
+					</div>
+					<div id="head_language">
+					<a href="#" onclick="return false" class="sort_language">LANGUAGE</a> 
+					</div>
+					<div id="head_tags">
+					<a href="#" onclick="return false" class="sort_tags">TAGS</a></div> 
+					</div>
+					
+					<div id="project_wrapper">
+						
+					</div>
+				</div>
+			</section>
+			
+			<footer>
+		 		<p>
+					&copy; Copyright <?php echo gmdate('Y'); ?> <a target="_blank" href="http://www.robincwillis.com">Robin Willis</a>. Get in touch with me on <a href="http://www.facebook.com/robincwillis" target="_blank">Facebook</a>, <a href="http://twitter.com/#!/robincwillis" target="_blank">Twitter</a>, <a href="https://plus.google.com/101160065704574151853/posts" target="_blank">Google+</a>
+				</p>
+
+		
+				
+			</footer>
+		
+	</body>
+</html>
